@@ -1,0 +1,2 @@
+I created my own branch and practised using Git.
+I am learning how to commit and push changes to GitHub.
